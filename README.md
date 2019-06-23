@@ -1,0 +1,2 @@
+# MangASC
+Manga Project
