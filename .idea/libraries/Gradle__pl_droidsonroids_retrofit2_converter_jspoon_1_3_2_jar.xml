@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: pl.droidsonroids.retrofit2:converter-jspoon:1.3.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.droidsonroids.retrofit2/converter-jspoon/1.3.2/a0fc178f973ad9f309aebebaa20eec225000fb43/converter-jspoon-1.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.droidsonroids.retrofit2/converter-jspoon/1.3.2/ddb1db5334aae666e695a0901501c1fde66468a/converter-jspoon-1.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
